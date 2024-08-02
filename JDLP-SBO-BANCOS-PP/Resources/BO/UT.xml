@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BOM>
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_HOST</TableName>
+        <TableDescription>BCP Host to Host</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_PROV_ABO</TableName>
+        <TableDescription>BCP Prov Abono</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_PROV_CAR</TableName>
+        <TableDescription>BCP Prov Cargo</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_PROV_DOC</TableName>
+        <TableDescription>BCP Prov Doc</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_PROV_PAGO</TableName>
+        <TableDescription>BCP Resumen de Pagos</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_TRAN</TableName>
+        <TableDescription>BCP Transferencia</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_TRAN_ABO</TableName>
+        <TableDescription>BCP Trans Abono</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_TRAN_CAR</TableName>
+        <TableDescription>BCP Trans Cargo</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_BCP_TRAN_OVPM</TableName>
+        <TableDescription>BCP OVPM</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXPM_BANKCODES</TableName>
+        <TableDescription>EXPM_BANKCODES</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXPM_CONFIG</TableName>
+        <TableDescription>EXPM_CONFIG</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>EXX_H2H_CONFIG</TableName>
+        <TableDescription>H2H CONFIG</TableDescription>
+        <TableType>bott_NoObject</TableType>
+      </row>
+    </UserTablesMD>
+  </BO>
+
+</BOM>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CONFIG>
+  <Row>
+    <Code>001</Code>
+    <Name>001</Name>
+    <Desc>Carpeta Local Transferencia IN</Desc>
+    <Val>C:\LOCAL_SFTP\TRANSFERENCIA\IN</Val>
+  </Row>
+  <Row>
+    <Code>002</Code>
+    <Name>002</Name>
+    <Desc>Carpeta Local Transferencia OU</Desc>
+    <Val>C:\LOCAL_SFTP\TRANSFERENCIA\OU</Val>
+  </Row>
+  <Row>
+    <Code>003</Code>
+    <Name>003</Name>
+    <Desc>Carpeta Local Proveedor IN</Desc>
+    <Val>C:\LOCAL_SFTP\PROVEEDOR\IN</Val>
+  </Row>
+  <Row>
+    <Code>004</Code>
+    <Name>004</Name>
+    <Desc>Carpeta Local Proveedor OU</Desc>
+    <Val>C:\LOCAL_SFTP\PROVEEDOR\OU</Val>
+  </Row>
+  <Row>
+    <Code>005</Code>
+    <Name>005</Name>
+    <Desc>Carpeta SFTP Transferencia IN</Desc>
+    <Val>/sftp/FTTH2H58/TLC_Transferencias/IN/</Val>
+  </Row>
+  <Row>
+    <Code>006</Code>
+    <Name>006</Name>
+    <Desc>Carpeta SFTP Transferencia OU</Desc>
+    <Val>/sftp/FTTH2H58/TLC_Transferencias/OUT/</Val>
+  </Row>
+  <Row>
+    <Code>007</Code>
+    <Name>007</Name>
+    <Desc>Carpeta SFTP Proveedor IN</Desc>
+    <Val>/sftp/FTTH2H58/TLC_PagosMasivos/IN/</Val>
+  </Row>
+  <Row>
+    <Code>008</Code>
+    <Name>008</Name>
+    <Desc>Carpeta SFTP Proveedor OU</Desc>
+    <Val>/sftp/FTTH2H58/TLC_PagosMasivos/OUT/</Val>
+  </Row>
+
+  <Row>
+    <Code>009</Code>
+    <Name>009</Name>
+    <Desc>Servidor</Desc>
+    <Val>200.37.27.177</Val>
+  </Row>
+  <Row>
+    <Code>010</Code>
+    <Name>010</Name>
+    <Desc>Puerto</Desc>
+    <Val>1722</Val>
+  </Row>
+  <Row>
+    <Code>011</Code>
+    <Name>011</Name>
+    <Desc>Usuario</Desc>
+    <Val>FTTH2H58</Val>
+  </Row>
+  <Row>
+    <Code>012</Code>
+    <Name>012</Name>
+    <Desc>Clave</Desc>
+    <Val>WQZQbzC23S</Val>
+  </Row>
+</CONFIG>

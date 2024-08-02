@@ -1,0 +1,17 @@
+﻿CREATE PROCEDURE "SP_EXXIS_PLANILLA_BCP_L_PROVEEDOR_CARGO_BY_PLANILLA"  
+(
+    IN vPlanilla NVARCHAR(254)
+)  
+LANGUAGE SQLSCRIPT
+AS  
+BEGIN   
+    SELECT 
+        T0.*,
+        RIGHT(
+            '000000000000000' ||
+            TO_NVARCHAR(TO_DOUBLE(T0."U_CCHK") +
+                (SELECT SUM(TO_DOUBLE(IFNULL(TX."U_ACHK", 0))) FROM "@EXX_BCP_PROV_ABO" TX WHERE TX."U_HTP_PC" = T0."U_HTP_PC"
+                ),30), 15) AS "TotalControCHK"
+    FROM "@EXX_BCP_PROV_CAR" T0 
+    WHERE T0."U_HTH_PL" = :vPlanilla;
+END;
